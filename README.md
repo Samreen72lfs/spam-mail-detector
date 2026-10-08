@@ -1,4 +1,4 @@
-# spam-mail-detector# 📧 Spam Mail Detector Using Machine Learning
+# 📧 Spam Mail Detector Using Machine Learning
 
 ## 📌 Project Overview
 
@@ -77,4 +77,4 @@ The notebook can be opened and executed using Google Colab or Jupyter Notebook.
 
 ## 👩‍💻 Author
 
-Samreen Shaik
+**Samreen Shaik**
